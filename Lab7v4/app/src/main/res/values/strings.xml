@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab7v4</string>
+    <string name="erase">Змінити колір</string>
+    <string name="painting_saved">painting</string>
+    <string name="clear">Очистити</string>
+    <string name="save">Зберегти</string>
+    <string name="select">Вибрати з галереї...</string>
+</resources>
